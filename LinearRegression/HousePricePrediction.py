@@ -2,6 +2,8 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 
 """
+House Price Prediction using Linear Regression
+
 This code demonstrates how to use a LinearRegression model from scikit-learn to predict house prices based on 
 features such as square footage, number of bedrooms, and house age. It trains the model on sample data and then 
 predicts the price for a new house with specified features.
